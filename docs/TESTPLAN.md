@@ -78,3 +78,6 @@ Este plan de pruebas cubre la lógica empresarial actual de la aplicación COBOL
    - Manejo de errores de base de datos
    - Rate limiting
    - Validación de entrada en backend (no solo en frontend)
+
+## Conclusión
+Este plan de pruebas proporciona una cobertura exhaustiva de la lógica empresarial actual en COBOL para el sistema de gestión de cuentas de estudiantes. Al migrar a Node.js, se recomienda mantener estas pruebas como base y expandirlas para cubrir nuevas funcionalidades y validaciones que se implementen en la nueva plataforma.
