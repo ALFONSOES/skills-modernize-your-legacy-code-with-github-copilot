@@ -40,7 +40,7 @@ Si desea, puedo:
 ```mermaid
 sequenceDiagram
   participant Usuario
-  participant Main as main.cob
+  participant Main as main.cobcle
   participant Ops as operations.cob
   participant Data as data.cob
   participant FS as FileSystem
