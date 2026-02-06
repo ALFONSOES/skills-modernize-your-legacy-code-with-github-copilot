@@ -81,3 +81,5 @@ Este plan de pruebas cubre la lógica empresarial actual de la aplicación COBOL
 
 ## Conclusión
 Este plan de pruebas proporciona una cobertura exhaustiva de la lógica empresarial actual en COBOL para el sistema de gestión de cuentas de estudiantes. Al migrar a Node.js, se recomienda mantener estas pruebas como base y expandirlas para cubrir nuevas funcionalidades y validaciones que se implementen en la nueva plataforma.
+
+Mando a revisar el código COBOL para extraer nombres de rutinas y contratos de entrada/salida para documentar en el plan de pruebas y facilitar la migración a servicios modernos.
